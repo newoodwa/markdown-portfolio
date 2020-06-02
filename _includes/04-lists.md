@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+# Best ice cream flavors
+- Strawberry cheesecake
+- Cookies and cream
+- Rocky road
+- Caramel fudge swirl
